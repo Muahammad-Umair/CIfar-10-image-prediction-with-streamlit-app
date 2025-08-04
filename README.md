@@ -85,11 +85,11 @@ You’ll see:
 🖼️ Displayed image (at a smaller size for readability)
 
 📷 Example Output
-Uploaded Image: 🐱 Cat
+Uploaded Image: Dog
 
-Predicted Class: Cat
+Predicted Class: Dog
 
-Confidence: 97.52%
+Confidence: 99.52%
 
 🧠 Model Information
 The model is trained on the CIFAR-10 dataset using a Convolutional Neural Network (CNN)
