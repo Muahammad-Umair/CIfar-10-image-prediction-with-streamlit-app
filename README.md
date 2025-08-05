@@ -35,10 +35,10 @@ The CIFAR-10 dataset contains 10 different image categories:
 
 ## 📁 Project Structure
 
-├── cifar10_model.h5 # (run code and you get this model file)
-├── prediction.py # Streamlit app file
-├── experiment.ipynb 
-├── README.md # Project documentation
+- cifar10_model.h5 # (run code and you get this model file).
+- prediction.py # Streamlit app file.
+- experiment.ipynb 
+- README.md # Project documentation
 
 
 
